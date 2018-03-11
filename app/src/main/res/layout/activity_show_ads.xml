@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="rtl"
+    android:orientation="vertical"
+    tools:context="finalcom.javadmorsali.adsfinder.ShowAds">
+
+
+    <ImageView
+        android:id="@+id/imgAdsPic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:src="@drawable/adsfinder" />
+
+
+    <TextView
+        android:id="@+id/lblAdsPersianCreateDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_margin="5dp"
+        android:paddingTop="5dp"
+        android:text="تاریخ آگهی"
+        android:textSize="10dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblAdsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_margin="5dp"
+        android:paddingTop="5dp"
+        android:text="عنوان"
+        android:textColor="#5d3422"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/lblAdsDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="توضیحات" />
+
+    <TextView
+        android:id="@+id/lblAdsPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:paddingTop="15dp"
+        android:text="320،000،000" />
+
+    <TextView
+        android:id="@+id/lblAdsAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:paddingTop="15dp"
+        android:text="آدرس" />
+
+
+    <TextView
+        android:id="@+id/lblAdsMobileNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:paddingTop="15dp"
+        android:text="091234567890" />
+
+
+    <TextView
+        android:id="@+id/lblAdsTel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:paddingTop="15dp"
+        android:text="4455668877" />
+
+</LinearLayout>

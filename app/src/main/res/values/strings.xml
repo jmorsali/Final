@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">آگهی جو</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_ads">ShowAds</string>
+    <string name="CurrentUserId">3</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="AdsAppCurrentUserId">3</string>
+    <string name="title_activity_welcome">خوش آمدید</string>
+    <string name="next">بعدی</string>
+    <string name="skip">رد شو</string>
+    <string name="slide_1_title">خودرو</string>
+    <string name="slide_1_desc">خرید و فروش خودروهای نو و دسته دوم</string>
+    <string name="slide_2_title">املاک</string>
+    <string name="slide_2_desc">خرید و فروش و رهن و اجاره زمین و آپارتمان و خانه کلنگی</string>
+    <string name="slide_3_title">لوازم خانگی</string>
+    <string name="slide_3_desc">خرید و فروش لوارم آشپزخانه و لوازم پخت و پز</string>
+    <string name="slide_4_title">لوازم بهداشتی</string>
+    <string name="slide_4_desc">پوشاک، عطر و ادکلن و لوازم بهداشتی</string>
+    <string name="start">شروع</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
